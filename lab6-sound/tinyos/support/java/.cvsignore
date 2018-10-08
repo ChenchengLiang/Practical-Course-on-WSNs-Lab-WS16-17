@@ -1,0 +1,8 @@
+.classpath
+.project
+structs.txt
+*.bin
+*.gap
+*.ts
+*.conf
+*.ini

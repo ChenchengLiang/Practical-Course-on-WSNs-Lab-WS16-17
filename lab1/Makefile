@@ -1,0 +1,3 @@
+COMPONENT=RadioConfiguration
+include $(MAKERULES)
+
